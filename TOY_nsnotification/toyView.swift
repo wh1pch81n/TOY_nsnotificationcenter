@@ -57,6 +57,7 @@ class ToyView: UIView {
 //        self.borderColor = UIColor.clearColor();
 //        self.borderWidth = 0;
         
+       
         
         super.init(frame: frame);
     }
