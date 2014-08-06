@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CustomView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>TOY_nsnotification.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>7F7D501A1991A68E003515CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F7D50311991AF08003515CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F7D503B1991AF08003515CF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
